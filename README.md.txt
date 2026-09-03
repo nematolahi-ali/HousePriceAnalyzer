@@ -1,5 +1,4 @@
 # HousePriceAnalyzer
-
 A complete machine learning project for analyzing and predicting house prices using real estate data.
 
 ## Features
